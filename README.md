@@ -2,7 +2,7 @@
 
 ## Philips Fullstack Developer | You Are You
 
-## Cursos Feitos
+### Cursos Feitos
  - Lógica de Programação Essencial
  - Pensamento Computacional
  - Introdução ao Git e ao GitHub
